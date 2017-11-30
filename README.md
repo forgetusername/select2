@@ -1,1 +1,1 @@
-URL: https://select2.org/
+URL: https://select2.org
