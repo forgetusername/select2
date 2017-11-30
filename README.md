@@ -1,1 +1,1 @@
-http://davidstutz.github.io/bootstrap-multiselect/
+URL: https://select2.org/
